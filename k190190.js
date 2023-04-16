@@ -25,3 +25,6 @@ function redirectToPage() {
   function redirectToEducation() {
     window.location.href = "k190190_education.html";
   }
+  function redirectToCertifications() {
+    window.location.href = "k190190_certifications.html";
+  }
